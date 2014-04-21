@@ -2,7 +2,24 @@
 
 ## Development
 
-[Commits](https://github.com/jhudson8/backbone-query-parameters/compare/v0.2.4...master)
+[Commits](https://github.com/jhudson8/backbone-query-parameters/compare/v0.3.0...master)
+
+## v0.3.0 - December 30th, 2013
+- [#71](https://github.com/jhudson8/backbone-query-parameters/issues/71) - router.getFragment() fails ([@finpingvin](https://api.github.com/users/finpingvin))
+- [#65](https://github.com/jhudson8/backbone-query-parameters/issues/65) - Backbone 1.1.0 ([@klimashkin](https://api.github.com/users/klimashkin))
+- [#62](https://github.com/jhudson8/backbone-query-parameters/issues/62) - Query string in hash fragment is stripped in IE ([@bradleyayers](https://api.github.com/users/bradleyayers))
+- [#56](https://github.com/jhudson8/backbone-query-parameters/issues/56) - Update README to make it clear if Backbone 1.0.0 is supported
+- [#21](https://github.com/jhudson8/backbone-query-parameters/issues/21) - _toQueryParam on arrays in objects
+- [#31](https://github.com/jhudson8/backbone-query-parameters/issues/31) - pushState mode failing on non-pushState devices
+
+[Commits](https://github.com/jhudson8/backbone-query-parameters/compare/v0.2.5...v0.3.0)
+
+## v0.2.5 - December 17th, 2013
+
+- [#72](https://github.com/jhudson8/backbone-query-parameters/pull/72) - Added parsing of key[] URL Encoded for array structure ([@jeremyFreeAgent](https://api.github.com/users/jeremyFreeAgent))
+- [#75](https://github.com/jhudson8/backbone-query-parameters/pull/75) - Failover parameter parsing if junk data is sent ([@kpdecker](https://api.github.com/users/kpdecker))
+
+[Commits](https://github.com/jhudson8/backbone-query-parameters/compare/v0.2.4...v0.2.5)
 
 ## v0.2.4 - November 8th, 2013
 
